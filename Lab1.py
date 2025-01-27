@@ -8,7 +8,7 @@ def hello_world():
 # and then print them back in a formatted message.
 def input_output():
 
-    name = input("Enter your name: ")
-    age = input("Enter your age: ")
-    height = input("Enter your height: ")
-    print("name: " + name, " age: " + age, " height: " + height)
+  name = input("Enter your name: ")
+  age = input("Enter your age: ")
+  height = input("Enter your height: ")
+  print("name: " + name, " age: " + age, " height: " + height)
