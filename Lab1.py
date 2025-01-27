@@ -10,4 +10,7 @@ def input_output():
   name = input("Enter your name: ")
   age = input("Enter your age: ")
   height = input("Enter your height: ")
-  print("Hello, " +name,"! You are " +age, "years old. Your height is " +height,"meters." )
+  print("name: " + name, " age: " + age, " height: " + height)  
+  print("Hello, " +name,"!") 
+  print("You are " +age, "years old.") 
+  print("Your height is " +height,"meters." )
